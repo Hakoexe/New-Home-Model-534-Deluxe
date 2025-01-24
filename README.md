@@ -1,11 +1,10 @@
-# Super Deluxe ZigZag Instruction Book  
+# New Home Model 534 Deluxe
+![IMG_3256](https://github.com/user-attachments/assets/2556a84c-2d23-4a5f-883f-f40ffe1d7261)
 
-![IMG_3256](https://github.com/user-attachments/assets/54eb1353-152e-4b1c-930e-a76c57245126)
 
+Welcome to the **New Home Model 534 Deluxe Instruction Book** repository!  
 
-Welcome to the **Super Deluxe ZigZag Instruction Book** repository!  
-
-This repository contains a digital copy of the instruction manual for **The New Home Sewing Machine Company's Super Deluxe ZigZag model**, manufactured by **Janome Sewing Machine Co., Ltd.** in Japan.  
+This repository contains a digital copy of the instruction manual for **The New Home Sewing Machine Company's Model 534 Deluxe**, manufactured by **Janome Sewing Machine Co., Ltd.** in Japan.  
 
 ## Purpose  
 This repository is intended solely for **documentation and educational purposes**.  
@@ -17,7 +16,7 @@ I do not claim any ownership or rights to the contents of this manual.
 This repository includes:  
 - **Detailed scans** of the original instruction manual (Instruction Book).  
 - **Detailed schematics** illustrating the machine's parts and operation.  
-- **High-resolution photos** of the Super Deluxe ZigZag sewing machine.  
+- **High-resolution photos** of the New Home Model 534 Deluxe sewing machine.  
 
 ---
 
@@ -26,9 +25,9 @@ This repository may be useful for those interested in:
 - Vintage sewing machines  
 - Sewing machine manuals  
 - The New Home Sewing Machine Company  
-- Super Deluxe ZigZag models  
+- New Home Model 534 Deluxe  
 - Janome sewing machines  
-- Sewing machine schematics and documentation
+- Sewing machine schematics and documentation  
 
 ---
 
